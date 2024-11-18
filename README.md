@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nicholas Malan!
 
-🌟 **App & Web Developer** | 🎓 **Honours Student in Computer Science**  
+🌟 **App & Web Developer** | 🎓 **Final year student in Application Development at Varsity College**  
 📍 Gauteng, South Africa  
 
 ---
