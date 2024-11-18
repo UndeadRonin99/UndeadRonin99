@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nicholas Malan!
 
-<!--
-**UndeadRonin99/UndeadRonin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **App & Web Developer** | 🎓 **Honours Student in Computer Science**  
+📍 Gauteng, South Africa  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages:** Kotlin, Java, C#, Python, JavaScript, HTML  
+- **Frameworks:** .NET, ASP.NET MVC  
+- **Tech:** Firebase, Google APIs  
+
+---
+
+## 🚀 What I’m Working On
+- **Alleysway** – A website and app launching December 2024.  
+- Exploring **app & backend development** to create impactful solutions.
+
