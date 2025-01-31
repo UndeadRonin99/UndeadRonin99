@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Nicholas Malan!
 
-🌟 **App & Web Developer** | 🎓 **Bachelors in Application Development at Varsity College** | 🎓 **Completing my Honours in computers and information technology at Varsity College**
+🌟 **App & Web Developer** | 🎓 **BSc in Application Development** | 🎓 **Pursuing Honours in Computer & Information Science**
+
 📍 Gauteng, South Africa  
 
 ---
