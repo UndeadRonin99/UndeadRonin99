@@ -14,6 +14,6 @@
 ---
 
 ## 🚀 What I’m Working On
-- **To-Do** Learning .NET MAUI framework for fun
+- **To-Do** - Expand my app development skills and build cross-platform mobile apps efficiently using C# and .NET.
 - Exploring **app & backend development** to create impactful solutions.
 
