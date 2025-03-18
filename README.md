@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Nicholas Malan!
+[![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=UndeadRonin99)](https://github.com/anuraghazra/github-readme-stats)
 
 🌟 **App & Web Developer** | 🎓 **BSc in Application Development** | 🎓 **Pursuing Honours in Computer & Information Science**
 
