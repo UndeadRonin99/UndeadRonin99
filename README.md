@@ -1,5 +1,28 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Custom software solutions at DevIgnite, where we build tailored platforms for clients ranging from structural engineering firms to startups. Currently focused on developing a time and resource tracking system with Firebase integration and responsive ASP.NET MVC architecture.<br><br>👯 I’m looking to collaborate on<br>Freelance projects or innovative web/app builds that push boundaries—especially those involving Firebase, .NET, or mobile development.<br><br>🤝 I’m looking for help with<br>Creative UI design feedback and refining cross-platform performance on complex web apps.<br><br>🌱 I’m currently learning<br>Advanced Android development with Kotlin DSL, Jetpack libraries, and building scalable PWA architectures.<br><br>💬 Ask me about<br>Firebase (RTDB/Auth), .NET MVC, Kotlin Android apps, GitHub Actions, or how to structure your next MVP for scale.<br><br>⚡ Fun fact<br>I swam for South Africa as a teenager—and now I chase performance just as hard in clean code, slick UX, and fast load times.
+💼 **I’m currently working on**  
+Software development at **IATFusion**, where I work on production-grade systems and client platforms using **C#**, **ASP.NET**, and modern web architectures. My focus is on building reliable, maintainable solutions that prioritise performance, security, and long-term scalability.
+
+🚀 **My professional focus**  
+Designing and implementing full-stack solutions across web and backend systems, with hands-on experience in:
+- ASP.NET MVC and modern .NET architectures  
+- Firebase (Authentication and Realtime Database) integration  
+- Responsive, mobile-first web applications  
+- Clean data access layers and reusable service patterns  
+- Production deployments, CI pipelines, and environment-based configuration  
+
+Alongside my role at IATFusion, I maintain **DevIgnite** as a side venture for select freelance and custom software projects.
+
+🤝 **I’m open to collaborating on**  
+Selective freelance work and collaborative projects that require strong backend foundations, scalable architectures, and thoughtful system design. Particularly interested in projects involving **.NET**, **Firebase**, **PWAs**, or cross-platform applications.
+
+🌱 **I’m currently developing skills in**  
+- Advanced Android development using **Kotlin DSL** and Jetpack libraries  
+- Cross-platform optimisation and performance tuning  
+- Scalable **Progressive Web App** architecture  
+
+💬 **Ask me about**  
+ASP.NET MVC, Firebase (RTDB and Auth), Kotlin Android development, GitHub Actions and CI/CD pipelines, or how to structure MVPs that are production-ready from day one.
+
 
 
 ## 🌐 Socials:
